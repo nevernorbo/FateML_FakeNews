@@ -1,0 +1,13 @@
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
+ipympl
+seaborn
+wordcloud
+scikit-learn
+statsmodels
+
+newspaper3k
+lxml_html_clean
