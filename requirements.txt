@@ -8,6 +8,7 @@ seaborn
 wordcloud
 scikit-learn
 lime
+shap
 statsmodels
 
 newspaper3k

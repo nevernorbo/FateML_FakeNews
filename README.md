@@ -1,1 +1,7 @@
-# FateML_FakeNews
+# FateML - Classifying fake news
+
+This project is a machine learning study based on the [fake news](https://www.kaggle.com/datasets/algord/fake-news/code) dataset and the interpertability of the machine learning models trained on said data. The goal of this work is to gain a deeper understanding of the chosen dataset and the WHYs regarding our model's "brain", in others words it's interpretability. My personal objective is to have a hands on approach in the field of FATE and better understand how to process data. 
+
+Almost every data science paper talks about how we are living in the age of data abundance. We receive all kinds of information through our devices connected to the internet, such as: emails, weather forecasts, sleep metrics and the topic of my dataset, news. There is a sheer volume of news opinions from all sides made to fulfill every interest. While this can give us more insight, it can also provide us to information that may be misleading or outright false.
+
+So, how can we tell if what we read is true? Well we could use machine learning to solve this issue. We should create a model based on a set of labeled data to tell whether a news article is real or fake. In doing so, we could also gain insights about the underlying patterns that writers use to gain more clicks or alter opinions by misleading their readers.
